@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">FactoryMethod</string>
+    <string name="label_title">Selecciona el Producto</string>
+    <string name="label_boton">Crear</string>
+
+    <string name="label_juguete">Juguete</string>
+    <string name="label_ruleta">Ruleta</string>
+    <string name="label_vocal">Vocales</string>
+    <string name="label_oso">Oso</string>
+</resources>
